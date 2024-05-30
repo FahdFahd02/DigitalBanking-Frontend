@@ -6,7 +6,7 @@
 ![66](https://github.com/FahdFahd02/DigitalBanking-Frontend/assets/118827183/bffe8bff-1fc9-4353-a506-7fdd514f50ef)
 <br></br>
 
-EXECUTION DE L'APPLICATION :
+<h1>EXECUTION DE L'APPLICATION :</h1>
 <br></br>
 
 --AUTHENTIFICATION :
