@@ -1,27 +1,39 @@
-# EbankingFront
+<h1>Pour Le Frontend :</h1>
+<br></br>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
+--LES COMPONENTs ET SERVICEs QU'ON A CREER ET UTILISEE :
+<br></br>
+![66](https://github.com/FahdFahd02/DigitalBanking-Frontend/assets/118827183/bffe8bff-1fc9-4353-a506-7fdd514f50ef)
+<br></br>
 
-## Development server
+EXECUTION DE L'APPLICATION :
+<br></br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+--AUTHENTIFICATION :
+<br></br>
+![1](https://github.com/FahdFahd02/DigitalBanking-Frontend/assets/118827183/aaa102f7-aa38-45df-935b-ff183f7d3ec2)
+<br></br>
 
-## Code scaffolding
+--AJOUT D'UN NOUVEAU CUSTOMER (qui est reservée à l'admin uniquement) :
+<br></br>
+![2](https://github.com/FahdFahd02/DigitalBanking-Frontend/assets/118827183/445c0b1d-9440-4ca2-b231-e8af88cf3ab4)
+<br></br>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+--VOIR ET RECHERCHER LES CUSTOMERS :
+<br></br>
+![3](https://github.com/FahdFahd02/DigitalBanking-Frontend/assets/118827183/ecbd54b3-82da-4d26-9705-12dba9690b76)
+<br></br>
 
-## Build
+--RECHERCHER UN COMPTE :
+<br></br>
+![4](https://github.com/FahdFahd02/DigitalBanking-Frontend/assets/118827183/0038cefa-ebf7-4b34-943d-47c6a036477c)
+<br></br>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+--VOIR LES DETAILS DES OPERATIONS EFFECTUEE SUR UN COMPTE 
+<br></br>
+ET EFECTUEE DES OPERATIONS SUPLEMENTAIRE SI SOUHAITEE (qui est reservée à l'admin uniquement) :
+<br></br>
+![5](https://github.com/FahdFahd02/DigitalBanking-Frontend/assets/118827183/9ce37263-3b01-40e8-ba28-d63585ef084b)
+<br></br>
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
